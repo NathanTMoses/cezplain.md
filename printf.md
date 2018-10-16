@@ -1,5 +1,4 @@
-# Let's look at some basic `stdio.h` functions
-## `printf`
+#`printf`
 The basic print function.
 The layout is `printf("__\n");`
 In the underline you put what you want to write.
