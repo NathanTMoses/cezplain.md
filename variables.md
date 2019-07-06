@@ -20,7 +20,7 @@ Now we want to store a integer so our data type is `int`.
 Now we've got `int _ = ___;`
 ## The name
 Now this is the most fun part!
-Since the name of the variable doesn't affect the variable itself you can call it things like "Invincible_Ironman" or "Pretty_Cinderella"
+Since the name of the variable doesn't affect the variable itself you can call it things like "Invincible_Ironman" or "Silly_Cinderella"
 but for this example we'll call it name
 
 The result is `int name = ___;`
